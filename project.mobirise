@@ -34,7 +34,7 @@
       ]
     },
     "versionFirst": "4.0.14",
-    "uniqCompNum": 85,
+    "uniqCompNum": 107,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -617,7 +617,7 @@
         }
       ]
     },
-    "page1.html": {
+    "services.html": {
       "settings": {
         "title": "Services",
         "meta_descr": "",
@@ -1543,7 +1543,7 @@
         }
       ]
     },
-    "page2.html": {
+    "bodybeautiful.html": {
       "settings": {
         "title": "Body Beautiful",
         "meta_descr": "",
@@ -2686,14 +2686,14 @@
         }
       ]
     },
-    "page3.html": {
+    "contact.html": {
       "settings": {
         "title": "Contact",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 3
+        "order": 5
       },
       "components": [
         {

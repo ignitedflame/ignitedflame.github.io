@@ -34,7 +34,7 @@
       ]
     },
     "versionFirst": "4.0.14",
-    "uniqCompNum": 125,
+    "uniqCompNum": 126,
     "versionPublish": "4.5.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -4460,6 +4460,22 @@
           "_customHTML": "<section class=\"mbr-section article content12\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"color\" title=\"Counter Color\" name=\"counterColor\" value=\"#149dcc\" condition=\"stylizedCounters\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Mark\" name=\"mark\" checked condition=\"stylizedCounters\">\n        <select title=\"Counters Type\" name=\"countersType\" condition=\"stylizedCounters\">\n            <option value=\"default\" selected>Сircle Fill</option>\n            <option value=\"circle\">Circle</option>\n            <option value=\"square\">Square</option>\n        </select>   \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text counter-container col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ul>\n                    <li><b>Source Energy &amp; the Ignited Flame</b>- Everyone has access to source energy, but the strength and frequency you can access depends on how clear you are as a channel. What happens in the Ignited Flame modality is that perfect source energies are being channeled through you in a process that allows the frequencies you are able to receive are tripled. This creates the <i>most effecient and powerful energies</i> that are <b>perfect</b> for you, right now! You will always receive the perfect energies with this modality because the <i>energies will change with you</i> as you ascend. <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T4GZ5SRYQZH3U\">Book it&nbsp;now!</a></li>\n                    <li><b>Your Higher Self</b>- I always found it interesting when other healers would say, 'I am going to heal you'. They don't know me or what I need and how. So, when I first started to develop this method I was asking angels to do the healing, but what not only knows you best, but the perfect most effecient way to release or transmute your blocks? Your higher self! I may be facilitating the energies, but your higher self is the one running the show. This ensures there is no violation of free will and you will always receive everything you need that is in your highest and greatest good! <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T4GZ5SRYQZH3U\">Book it now!</a></li>\n                    <li><b>CONTINUOUS HEALING</b>- Something I found ridiculous with every energy healing modality I had used up until this point, was you had to go back time after time just to work on the same block. Not only that, but a lot of the methods only release blocks ... they don't replace that energy with a higher frequency, that means the blocks can come back or you can grow new blocks in its place. That's a TON of money just to release a couple of blocks, that could come back! With Ignited Flame Healing the energies run continuously - it could be days, weeks or months until it is finished. This mean you will <b>NEVER</b> have to have another healing for those specific blocks again. <a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T4GZ5SRYQZH3U\">Book it now!</a></li>\n                </ul>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qDFjyaOSqG",
           "_anchor": "content12-3d",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "_styles": {
+            "padding-top": "(@paddingTop * 15px)",
+            "padding-bottom": "(@paddingBottom * 15px)",
+            "background-color": "@bgColor"
+          },
+          "_name": "content8",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=T4GZ5SRYQZH3U\">BOOK A SESSION</a> <a class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=93F5BYPT468LE\">JOIN THE MONTHLY HEALING GROUP</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content8-3h",
+          "_isUserblock": true,
+          "_cid": "qDJGdJx9cq",
           "_protectedParams": [],
           "_global": false,
           "_once": false,

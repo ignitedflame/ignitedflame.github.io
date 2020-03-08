@@ -26,6 +26,9 @@
   color: #000000;
   text-align: left;
 }
+#header4-w H1 {
+  font-size: 46px;
+}
 #msg-box3-p .mbr-header .mbr-header__text {
   text-align: center;
 }
@@ -34,7 +37,7 @@
 }
 #msg-box3-p .mbr-section-title {
   text-align: center;
-  font-size: 46px;
+  font-size: 36px;
 }
 #msg-box3-p .lead {
   text-align: left;
@@ -43,13 +46,19 @@
   text-align: left;
 }
 #msg-box4-q .mbr-section-title {
-  font-size: 36px;
+  font-size: 30px;
 }
 #msg-box4-r .lead P {
   text-align: left;
 }
+#msg-box4-r .mbr-section-title {
+  font-size: 30px;
+}
 #msg-box4-s .lead P {
   text-align: left;
+}
+#msg-box4-s .mbr-section-title {
+  font-size: 30px;
 }
 #msg-box3-o .mbr-header .mbr-header__text {
   text-align: center;
@@ -58,10 +67,13 @@
   text-align: center;
 }
 #msg-box3-o .lead P {
-  font-size: 36px;
+  font-size: 25px;
 }
 #content1-m P {
   text-align: left;
+}
+#testimonials1-t .mbr-section-title {
+  font-size: 36px;
 }
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
@@ -73,12 +85,12 @@
 }
 #dropdown-menu-1j .navbar,
 #dropdown-menu-1j .dropdown-menu {
-  background: #ffffff;
+  background: #dddddd;
 }
 #dropdown-menu-1j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1j .dropdown-menu a:hover,
 #dropdown-menu-1j .dropdown-menu a:focus {
-  background: #f5f5f5;
+  background: #d3d3d3;
 }
 #dropdown-menu-1j .navbar-toggler {
   color: #000000;
@@ -444,24 +456,27 @@
 }
 #dropdown-menu-1j .navbar,
 #dropdown-menu-1j .dropdown-menu {
-  background: #ffffff;
+  background: #dddddd;
 }
 #dropdown-menu-1j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1j .dropdown-menu a:hover,
 #dropdown-menu-1j .dropdown-menu a:focus {
-  background: #f5f5f5;
+  background: #d3d3d3;
 }
 #dropdown-menu-1j .navbar-toggler {
   color: #000000;
 }
 #header1-9 H1 {
-  font-size: 48px;
+  font-size: 46px;
 }
 #header1-9 P {
-  font-size: 36px;
+  font-size: 30px;
 }
 #msg-box4-c .lead P {
   text-align: left;
+}
+#msg-box4-c .mbr-section-title {
+  font-size: 30px;
 }
 #msg-box4-2n .lead P {
   text-align: right;
@@ -469,8 +484,14 @@
 #msg-box4-2n .lead {
   text-align: left;
 }
+#msg-box4-2n .mbr-section-title {
+  font-size: 30px;
+}
 #msg-box4-y .lead P {
   text-align: left;
+}
+#msg-box4-y .mbr-section-title {
+  font-size: 30px;
 }
 #footer1-1t P {
   text-align: center;

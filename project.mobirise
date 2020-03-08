@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "infinityfire.html",
+    "currentPage": "html.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -3061,7 +3061,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -3125,7 +3125,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -3192,7 +3192,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "2",
             "paddingBottom": "2",

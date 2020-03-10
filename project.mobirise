@@ -1649,7 +1649,7 @@
           "title": "Are you ready to live a life you Love?",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MAWC72EX9VMRA\" data-toolbar=\"-mbrBtnMove\">Make 1 payment of $1,997 NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Make 3 payments of $697 each</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Fill out an application for the 1:1 Coaching Program</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MAWC72EX9VMRA\" data-toolbar=\"-mbrBtnMove\">Make 1 payment of $1,997 NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AKE4R35RTKC7G\" data-toolbar=\"-mbrBtnMove\">Make 3 payments of $697 each</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Fill out an application for the 1:1 Coaching Program</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"

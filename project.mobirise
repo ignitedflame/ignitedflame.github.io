@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "alignwithabundance.html",
+    "currentPage": "firecircle.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1002,8 +1002,8 @@
           "currency3": "$",
           "currency4": "$",
           "price1": "197",
-          "price2": "497",
-          "price3": "997",
+          "price2": "547",
+          "price3": "1047",
           "price4": "1997",
           "period1": "per month",
           "period2": "per 3 mo. cycle",
@@ -1013,10 +1013,10 @@
           "list2": "<div><b></b></div>",
           "list3": "<div><b></b></div>",
           "list4": "<div></div>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">Demo</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EGPHNTRV7WS6C\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HN5CVT4NLXT9Y\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=YWAGV8M3UWTUJ\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=22FPBEMSX5WJL\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -1103,10 +1103,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#8f99af"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#838ea6"
             },
             ".navbar-toggler": {
               "color": "#ffffff"

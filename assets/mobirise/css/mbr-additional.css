@@ -156,6 +156,15 @@
 #pricing-table1-24 SMALL {
   font-size: 22px;
 }
+#msg-box3-2w .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-2w .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-2w .lead P {
+  text-align: left;
+}
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
 }

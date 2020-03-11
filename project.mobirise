@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "contact.html",
+    "currentPage": "firecircle.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 104,
+    "uniqCompNum": 105,
     "versionPublish": "4.12.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -917,8 +917,8 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false,
-            "inverse": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -963,7 +963,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"firecircle.html#msg-box3-2w\" data-toolbar=\"-mbrBtnMove\">Tell me how</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1d",
           "_styles": {
@@ -1046,7 +1046,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -1204,6 +1204,49 @@
               "font-size": "22px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "How does Distance Energy Clearing work?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><span style=\"font-size: 1.25rem;\">All Energy Work (regardless of in-person or distance) is done through your energetic intention. Even in personal sessions, they all follow intention. This means that energy can take place across any distance since esoteric energy can be sent via thought, emotion and, of course, intention.&nbsp;</span><br></p><p>The esoteric energy has specific intentions and will follow those intentions, stretching beyond the limits of time and space, regardless of how far away the person is. Distance energy work comes in many forms, but what they have in common is their ability to be completed over any distance.&nbsp;</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-2w"
         },
         {
           "_params": {

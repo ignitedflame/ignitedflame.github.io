@@ -2731,7 +2731,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/moneymastery\" data-toolbar=\"-mbrBtnMove\">Sign up here to be informed when it's released</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/moneymastery\" data-toolbar=\"-mbrBtnMove\">Keep me posted!</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-14",
           "_styles": {
@@ -2792,7 +2792,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/leveluplove\" data-toolbar=\"-mbrBtnMove\">Sign up here to be informed when it's released</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/leveluplove\" data-toolbar=\"-mbrBtnMove\">Keep me posted!</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-13",
           "_styles": {
@@ -2853,7 +2853,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Sign up here to be informed when it's released</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Keep me posted!</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-11"
         },

@@ -95,19 +95,19 @@
 #dropdown-menu-1j .nav .link,
 #dropdown-menu-1j .dropdown-item {
   font-size: 1em;
-  color: #000000;
+  color: #ffffff;
 }
 #dropdown-menu-1j .navbar,
 #dropdown-menu-1j .dropdown-menu {
-  background: #dddddd;
+  background: #8f99af;
 }
 #dropdown-menu-1j .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-1j .dropdown-menu a:hover,
 #dropdown-menu-1j .dropdown-menu a:focus {
-  background: #d3d3d3;
+  background: #838ea6;
 }
 #dropdown-menu-1j .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #footer1-1t P {
   text-align: center;

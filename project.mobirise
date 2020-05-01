@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "termsofuse.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -11,7 +11,7 @@
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 122,
+    "uniqCompNum": 137,
     "versionPublish": "4.12.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -30,7 +30,7 @@
     "About.html": {
       "settings": {
         "title": "About",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -64,7 +64,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -799,7 +799,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -845,7 +845,7 @@
     "firecircle.html": {
       "settings": {
         "title": "Monthly Fire Circle",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1182,68 +1182,6 @@
           "_anchor": "msg-box3-1g"
         },
         {
-          "_params": {
-            "firstType": "bg-success",
-            "secondType": "bg-warning",
-            "thirdType": "bg-danger",
-            "fourthType": "bg-primary",
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "showButtons": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title1": "Monthly Cost",
-          "title2": "3 Month Pre-Pay",
-          "title3": "6 Month Pre-Pay",
-          "title4": "12 Month Pre-Pay",
-          "currency1": "$",
-          "currency2": "$",
-          "currency3": "$",
-          "currency4": "$",
-          "price1": "197",
-          "price2": "547",
-          "price3": "1047",
-          "price4": "1997",
-          "period1": "per month",
-          "period2": "per 3 mo. cycle",
-          "period3": "per 6 mo. cycle",
-          "period4": "per year",
-          "list1": "<div><b></b></div>",
-          "list2": "<div><b></b></div>",
-          "list3": "<div><b></b></div>",
-          "list4": "<div></div>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EGPHNTRV7WS6C\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=HN5CVT4NLXT9Y\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=YWAGV8M3UWTUJ\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=22FPBEMSX5WJL\" class=\"btn btn-secondary-outline\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-24",
-          "_styles": {
-            "DIV": {
-              "text-align": "center",
-              "font-size": "25px"
-            },
-            "SMALL": {
-              "font-size": "22px"
-            }
-          }
-        },
-        {
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center"
@@ -1287,6 +1225,15 @@
           "_anchor": "msg-box3-2w"
         },
         {
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=EGPHNTRV7WS6C\" data-toolbar=\"-mbrBtnMove\">Sign me up!<br>$197 per month!</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=22FPBEMSX5WJL\" data-toolbar=\"-mbrBtnMove\">Give me the year!<br>$1997 per year!<br></a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-3s"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showName": true,
@@ -1318,7 +1265,7 @@
             {
               "authorName": "JENN T.",
               "authorBio": "User",
-              "text": "<em>“Alyssa is a gifted healer with special talents that are not easy to find. Her healings unlock gifts in the recipients and trigger new awakenings on multiple levels.&nbsp;\r</em><em style=\"font-size: 1rem;\">I believe she is able to help connect people to their highest selves, reflect to us our highest vision, and awaken who we are at our divine blueprint whole.”</em>"
+              "text": "<em>“Alyssa is a gifted healer with special talents that are not easy to find. Her healings unlock gifts in the recipients and trigger new awakenings on multiple levels.&nbsp;\n</em><em style=\"font-size: 1rem;\">I believe she is able to help connect people to their highest selves, reflect to us our highest vision, and awaken who we are at our divine blueprint whole.”</em>"
             }
           ],
           "alias": "purity/components",
@@ -1331,7 +1278,7 @@
             {
               "authorName": "TANIA G.",
               "authorBio": "User",
-              "text": "<em>“Alyssa gave me a energy clearing session and not only is she truly gifted but she is so generous and has a huge heart, she goes above and beyond for others and she deserves all the praises.&nbsp;\r</em><div><em>Once she did that clearing where she released abundance blocks, things have started to shift for the better and new opportunities are starting to come my way. I highly recommend her!!”</em></div>"
+              "text": "<em>“Alyssa gave me a energy clearing session and not only is she truly gifted but she is so generous and has a huge heart, she goes above and beyond for others and she deserves all the praises.&nbsp;\n</em><div><em>Once she did that clearing where she released abundance blocks, things have started to shift for the better and new opportunities are starting to come my way. I highly recommend her!!”</em></div>"
             },
             {
               "authorName": "MELISSA M.",
@@ -1341,7 +1288,7 @@
             {
               "authorName": "JENN T.",
               "authorBio": "User",
-              "text": "<em>“Alyssa is a gifted healer with special talents that are not easy to find. Her healings unlock gifts in the recipients and trigger new awakenings on multiple levels.&nbsp;\r</em><em style=\"font-size: 1rem;\">I believe she is able to help connect people to their highest selves, reflect to us our highest vision, and awaken who we are at our divine blueprint whole.”</em>"
+              "text": "<em>“Alyssa is a gifted healer with special talents that are not easy to find. Her healings unlock gifts in the recipients and trigger new awakenings on multiple levels.&nbsp;\n</em><em style=\"font-size: 1rem;\">I believe she is able to help connect people to their highest selves, reflect to us our highest vision, and awaken who we are at our divine blueprint whole.”</em>"
             }
           ]
         },
@@ -1376,7 +1323,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1422,7 +1369,7 @@
     "alignwithabundance.html": {
       "settings": {
         "title": "Align with Abundance",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -2019,7 +1966,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2087,7 +2034,7 @@
     "levelupinlove.html": {
       "settings": {
         "title": "Level up in Love Revolution",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -2121,7 +2068,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2198,7 +2145,7 @@
     "bodybeautiful.html": {
       "settings": {
         "title": "Body Beautiful Breakthrough",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -2232,7 +2179,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2318,7 +2265,7 @@
     "Info.html": {
       "settings": {
         "title": "Info",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2352,7 +2299,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2398,7 +2345,7 @@
     "moneymastery.html": {
       "settings": {
         "title": "Money Mastery Method",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -2412,10 +2359,10 @@
               "color": "#ffffff"
             },
             ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
+              "background": "#8f99af"
             },
             ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
+              "background": "#838ea6"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -2432,7 +2379,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2517,7 +2464,7 @@
     "programs.html": {
       "settings": {
         "title": "Clearing Programs",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2542,7 +2489,7 @@
           },
           "title": "Clearing Programs",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"firecircle.html\" data-toolbar=\"-mbrBtnMove\">Fire Circle</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"alignwithabundance.html\" data-toolbar=\"-mbrBtnMove\">Surfing Uncertainty</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"programs.html#msg-box4-14\" data-toolbar=\"-mbrBtnMove\">Align with Abundance</a>  ",
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"firecircle.html\" data-toolbar=\"-mbrBtnMove\">Fire Circle</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">Surfing Uncertainty</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"alignwithabundance.html\" data-toolbar=\"-mbrBtnMove\">Align with Abundance</a>  ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -2684,13 +2631,13 @@
             }
           },
           "title": "Surfing Uncertainty",
-          "text": "It's hard to not panic in times of certainty. But panic&nbsp;",
+          "text": "<p>It's hard to not panic in times of certainty. But that panic is only showing a lack of trust and confidence in yourself; in your own ability to handle situations; in your connection and trust with your higher self; and not staying in the present and focusing on the furture.&nbsp;</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"alignwithabundance.html\" data-toolbar=\"-mbrBtnMove\">More</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"page15.html\" data-toolbar=\"-mbrBtnMove\">More</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-12",
           "_styles": {
@@ -2751,7 +2698,7 @@
             "Theme"
           ],
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/moneymastery\" data-toolbar=\"-mbrBtnMove\"></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"alignwithabundance.html\" data-toolbar=\"-mbrBtnMove\">Take me there!</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-14",
           "_styles": {
@@ -2759,123 +2706,6 @@
               "text-align": "left"
             }
           }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "22",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x934.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Level-Up in Love",
-          "text": "<p>Clear all your blocks, limiting beliefs and toxic patterns to love and relationships so you can have the life you deserve!\n<span style=\"font-size: 1.25rem;\"></span></p><p>Not yet available. Release expected May 2020.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/leveluplove\" data-toolbar=\"-mbrBtnMove\">Keep me posted!</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-13",
-          "_styles": {
-            ".lead P": {
-              "text-align": "left"
-            }
-          }
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": "22",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1282.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Body Beautiful Breakthrough",
-          "text": "<p>Clear all your blocks, limiting beliefs and toxic patterns to loving yourself and being healthy so you can have the life you deserve!\n<span style=\"font-size: 1.25rem;\"></span></p><p>Not yet available. Release expected June 2020.</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Keep me posted!</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-11"
         },
         {
           "_styles": {
@@ -2908,7 +2738,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2954,7 +2784,7 @@
     "FAQ.html": {
       "settings": {
         "title": "FAQ",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -2988,7 +2818,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3034,7 +2864,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact Us",
-        "order": 11
+        "order": 12
       },
       "components": [
         {
@@ -3068,7 +2898,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3161,7 +2991,279 @@
         }
       ]
     },
-    "html.html": {
+    "privacy.html": {
+      "settings": {
+        "title": "Privacy Policy",
+        "order": 13
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#8f99af"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#838ea6"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#8f99af",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "html.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-35"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#8f99af"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Privacy Policy",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>WEBSITE DISCLAIMER AND TERMS OF SERVICE</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-36"
+        },
+        {
+          "text": "<p><b>IMPORTANT MEDICAL DISCLAIMER</b>: I believe and have experienced the methods and sessions I provide to be powerfully effective in raising mindset, emotions and expanding positive life experiences for thousands of people (you can read some of their testimonials here) - however, I am by law required to give you the following information for your personal safety. As a company based in the United States I am required to provide detailed legal information in this disclaimer.\n</p><p>\n</p><p>\n</p><p>Please do not be alarmed, but be aware that: \n</p><p>\n</p><p>\n</p><p>The information on this site is NOT INTENDED or IMPLIED to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this web site is for general information and \"entertainment purposes\" only.\n</p><p>\n</p><p>\n</p><p>SERVICES OR PRODUCTS THAT YOU OBTAIN THROUGH THIS WEB SITE are not offered as medical or psychological advice or treatment. These products are not intended to diagnose, treat, cure or prevent any disease. The information is not a substitute for psychological, medical or other professional advice and should for legal reasons be considered as \"entertainment only\". \n</p><p>\n</p><p>\n</p><p>Any information presented on this web site about energy based healing methods is not intended to represent that they are used to diagnose, cure, treat, or prevent any medical problem, physical or psychological disorder, nor are they intended as substitutes for seeking professional health care advice. For legal purposes, it is understood that this is categorized as \"entertainment only\". \n</p><p>\n</p><p>\n</p><p>Energy healing, frequencies, vibrational alignment, energy clearing and meditation are collective terms used to refer to a variety of complementary techniques based on the balancing, programming, and direction of energy as well as the corresponding manifestation and influence of thoughts, beliefs, and emotions on the body and mind. You are a unique being with a complex physical/karmic/ancestral background which will impact any energy work you undertake - there is no \"one size fits all\". \n</p><p>\n</p><p>\n</p><p>Alyssa Cinda is not a licensed health care provider. We strongly advise that you seek professional advice as appropriate before making health decisions or big life decisions. Any stories or testimonials contained herein, do not constitute a warranty, guarantee, or prediction regarding the outcome of an individual using any specific energy healing method for any particular issue. \n</p><p>\n</p><p>\n</p><p>All materials and links to other resources are posted in good faith. The accuracy, validity, effectiveness, completeness, or usefulness of any information, programs, packages, recordings, or items herein, as with any publication, cannot be guaranteed. Alyssa Cinda accepts no responsibility or liability whatsoever for the use or misuse of the information provided here, including links to other resources or unlicensed usage of Alyssa Cinda's products and materials elsewhere. \n</p><p>\n</p><p>\n</p><p>By viewing this web site you agree to fully release, indemnify, and hold harmless, Alyssa Cinda, and its principals, owners, personal representatives, consultants, employees and assigns from any claim or liability whatsoever and for any damage or injury, personal, financial, emotional, psychological or otherwise, which you may incur arising at any time out of or in relation to your use of the information presented on this web site. Alyssa Cinda is not responsible for yours and others' Free Will choices and any impact of these. \n</p><p>If any court of law rules that any part of the Disclaimer is invalid, the Disclaimer stands as if those parts were struck out. Further, you acknowledge that the information contained on this web site, including suggestions, techniques, ideas, downloads (and other material), is not medical or psychological advice and is legally for \"entertainment purposes only\".&nbsp;</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-37"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"termsofuse.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3d"
+        }
+      ]
+    },
+    "disclaimer.html": {
+      "settings": {
+        "title": "Disclaimer",
+        "order": 15
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#8f99af"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#838ea6"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#8f99af",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "html.html",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-39"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".lead": {
+              "color": "#8f99af"
+            },
+            ".lead P": {
+              "text-align": "center",
+              "font-size": "22px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Disclaimer",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><b>WEBSITE DISCLAIMER AND TERMS OF SERVICE</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3a"
+        },
+        {
+          "text": "<p><b style=\"font-size: 1.25rem;\">This website is owned and operated by ​Alyssa Cinda (“Company,” “we,” or “us”).&nbsp;</b></p><p></p><div><b>\n</b></div><div><b>This Disclaimer, along with the Terms of Use and Privacy Policy, governs your access to and use of www.alyssacinda.com, including any content, functionality and services offered on or through www.alyssacinda.com (the “Website”), whether as a guest or a registered user.\n</b></div><div><b>\n</b></div><div><b>Please read the Disclaimer carefully before you start to use the Website. By using the Website or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by the Disclaimer. If you do not want to agree to the Privacy Policy, you must not access or use the Website.</b></div><div><b><br></b></div><div><b> \n</b></div><div><b>\n</b></div><div><b>​For Entertainment Purposes Only\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>The information contained on this Website and the resources available for download through this website are for entertainment purposes only. ​\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Not Medical or Health Advice\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Alyssa Cinda is not a licensed health care provider. The information contained on this Website and the resources available for download through this website is not intended as, and shall not be understood or construed as, medical or health advice. While the professional at the Company addresses health issues and the information provided on this Website relates to medical and/or health issues, the information contained on this Website is not a substitute for medical or health advice from a professional who is aware of the facts and circumstances of your individual situation.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Any information presented on this web site about energy based healing methods is not intended to represent that they are used to diagnose, cure, treat, or prevent any medical problem, physical or psychological disorder, nor are they intended as substitutes for seeking professional health care advice. For legal purposes, it is understood that this is categorized as \"entertainment only\".\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>We have done our best to ensure that the information provided on this Website and the resources available for download are accurate and provide valuable information. Regardless of anything to the contrary, nothing available on or through this Website should be understood as a recommendation that you should not consult with a medical or health professional to address your particular information. The Company expressly recommends that you seek advice from a professional. \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Neither the Company nor any of its employees or owners shall be held liable or responsible for any errors or omissions on this website or for any damage you may suffer as a result of failing to seek competent medical or health advice from a professional who is familiar with your situation.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Not Professional Advice\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>The information contained on this Website and the resources available for download through this website is not intended as, and shall not be understood or construed as, professional advice. While the employees and/or owners of the Company are professionals and the information provided on this Website relates to issues within the Company’s area of professionalism, the information contained on this Website is not a substitute for advice from a professional who is aware of the facts and circumstances of your individual situation.\n</b></div><div><b>\n</b></div><div><b>We have done our best to ensure that the information provided on this Website and the resources available for download are accurate and provide valuable information. Regardless of anything to the contrary, nothing available on or through this Website should be understood as a recommendation that you should not consult with a professional to address your particular information. The Company expressly recommends that you seek advice from a professional.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Neither the Company nor any of its employees or owners shall be held liable or responsible for any errors or omissions on this website or for any damage you may suffer as a result of failing to seek competent advice from a professional who is familiar with your situation.]\n</b></div><div><b>\n</b></div><div><b>No Professional-Client Relationship\n</b></div><div><b>​\n</b></div><div><b>Your use of this Website – including implementation of any suggestions set out in this Website and/or use of any resources available on this Website – does not create a professional-client relationship between you and the Company or any of its professionals.\n</b></div><div><b>The Company cannot accept you as a client unless and until we determine that there is a fit and until various requirements, such as fee arrangements, are resolved.  Thus, you recognize and agree that we have not created any professional-client relationship by the use of this Website.\n</b></div><div><b>​\n</b></div><div><b>User’s Personal Responsibility \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>By using this Website, you accept personal responsibility for the results of your actions.  You agree to take full responsibility for any harm or damage you suffer as a result of the use, or non-use, of the information available on this Website or the resources available for download from this Website. You agree to use judgment and conduct due diligence before taking any action or implementing any plan or policy suggested or recommended on this Website.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>No Guarantees​\n</b></div><div><b>​\n</b></div><div><b>You agree that the Company has not made any guarantees about the results of taking any action, whether recommended on this Website or not. The Company provides educational and informational resources that are intended to help users of this website succeed in life and otherwise. You nevertheless recognize that your ultimate success or failure will be the result of your own efforts, your particular situation, and innumerable other circumstances beyond the control and/or knowledge of the Company.\n</b></div><div><b>\n</b></div><div><b>You also recognize that prior results do not guarantee a similar outcome.  Thus, the results obtained by others – whether clients or customers of the Company or otherwise – applying the principles set out in this Website are no guarantee that you or any other person or entity will be able to obtain similar results.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Errors And Omissions​\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>This World Wide Web Site is a public resource of general information that is intended, but not promised or guaranteed, to be correct, complete, and up-to-date.  We have taken reasonable steps to ensure that the information contained in this Website is accurate, but we cannot represent that this Website is free of errors. You accept that the information contained on this Website may be erroneous and agree to conduct due diligence to verify any information obtained from this Website and/or resources available on it prior to taking any </b></div><div><b>action.  You expressly agree not to rely upon any information contained in this website.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>​Reviews​\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>At various times, we may provide reviews of products, services, or other resources.  This may include reviews of books, services, and/or software applications. Any such reviews will represent the good-faith opinions of the author of such a review. The products and services reviewed may be provided to the Company for free or at a reduced price as an incentive to provide a review. \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Regardless of any such discounts, we will provide honest reviews of these products and/or services. You recognize that you should conduct your own due diligence and should not rely solely upon any reviews provided on this website. \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>We will disclose the existence of any discounts or incentives received in exchange for providing a review of a product. If you would like more information about any such discounts and incentives, send an email to ask@alyssacinda.com that includes the title of the reviewed product as the subject line. We will respond via email and disclose any incentives or discounts we received in association with any such review.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Affiliate Links\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>From time to time, the Company participates in affiliate marketing and may allow affiliate links to be included on some of our pages. This means that we may earn a commission if/when you click on or make purchases via affiliate links. \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>As a policy, the Company will only affiliate with products, services, coaches, consultants, and other experts that we believe will provide value to our customers and followers. \n</b></div><div><b>\n</b></div><div><b>The Company will inform you when one of the links constitutes an affiliate link.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>You recognize that it remains your personal responsibility to investigate whether any affiliate offers are right for your business and will benefit you. You will not rely on any recommendation, reference, or information provided by the Company but will instead conduct your own investigation and will rely upon your investigation to decide whether to purchase the affiliate product or service.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>No Endorsements\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>From time to time, the Company will refer to other products, services, coaches, consultants, and/or experts. Any such reference is not intended as an endorsement or statement that the information provided by the other party is accurate. The Company provides this information as a reference for users. It is your responsibility to conduct your own investigation and make your own determination about any such product, service, coach, consultant, and/or expert.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Testimonials\n</b></div><div><b>​\n</b></div><div><b>At various places on this Website, you may find testimonials from clients and customers of the products and services offered on this Website or by the Company. The testimonials are actual statements made by clients and/or customers and have been truthfully conveyed on this Website. \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Although these testimonials are truthful statements about results obtained by these clients and/or customers, the results obtained by these clients and/or customers are not necessarily typical. You specifically recognize and agree that the testimonials are not a guarantee of results that you or anyone else will obtain by using any products or services offered on this Website or by the Company.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Earnings Disclaimer\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>From time to time, the Company may report on the success of one of its existing or prior clients/customers. The information about this success is accurately portrayed by the Customer. You acknowledge that the prior success of others does not guarantee your success.\n</b></div><div><b>\n</b></div><div><b>As with any business, your results may vary and will be based on your individual capacity, business experience, expertise, and level of desire. There are no guarantees concerning the level of success you may experience. There is no guarantee that you will make any income at all and you accept the risk that the earnings and income statements differ by individual.  Each individual’s success depends on his or her background, dedication, desire and motivation.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>The use of our information, products and services should be based on your own due diligence and you agree that the Company is not liable for any success or failure of your business that is directly or indirectly related to the purchase and use of our information, products, and services reviewed or advertised on this Website.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>No Warranties\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>THE COMPANY MAKES NO WARRANTIES REGARDING THE PERFORMANCE OR OPERATION OF THIS WEBSITE. THE COMPANY FURTHER MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE INFORMATION, CONTENTS, MATERIALS, DOCUMENTS, PROGRAMS, PRODUCTS, BOOKS, OR SERVICES INCLUDED ON OR THROUGH THIS WEBSITE. TO THE FULLEST EXTENT PERMISSIBLE UNDER THE LAW, THE COMPANY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.\n</b></div><div><b>​\n</b></div><div><b>Limitation of Liability\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>YOU AGREE TO ABSOLVE THE COMPANY OF ANY AND ALL LIABILITY OR LOSS THAT YOU OR ANY PERSON OR ENTITY ASSOCIATED WITH YOU MAY SUFFER OR INCUR AS A RESULT OF USE OF THE INFORMATION CONTAINED ON THIS WEBSITE AND/OR THE RESOURCES YOU MAY DOWNLOAD FROM THIS WEBSITE.  YOU AGREE THAT THE COMPANY SHALL NOT BE LIABLE TO YOU FOR ANY TYPE OF DAMAGES, INCLUDING DIRECT, INDIRECT, SPECIAL, INCIDENTAL, EQUITABLE, OR CONSEQUENTIAL LOSS OR DAMAGES FOR USE OF THIS WEBSITE.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>THE INFORMATION, SOFTWARE, PRODUCTS, AND SERVICES INCLUDED IN OR AVAILABLE THROUGH THE WEBSITE MAY INCLUDE INACCURACIES OR TYPOGRAPHICAL ERRORS. CHANGES ARE PERIODICALLY ADDED TO THE INFORMATION HEREIN. THE COMPANY AND/OR ITS SUPPLIERS MAY MAKE IMPROVEMENTS AND/OR CHANGES IN THE WEBSITE AT ANY TIME.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>THE COMPANY AND/OR ITS SUPPLIERS MAKE NO REPRESENTATIONS ABOUT THE SUITABILITY, RELIABILITY, AVAILABILITY, TIMELINESS, AND ACCURACY OF THE INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS CONTAINED ON THE WEBSITE FOR ANY PURPOSE. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, ALL SUCH INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY OR CONDITION OF ANY KIND. THE COMPANY AND/OR ITS SUPPLIERS HEREBY DISCLAIM ALL WARRANTIES AND CONDITIONS WITH REGARD TO THIS INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS, INCLUDING ALL IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE COMPANY AND/OR ITS SUPPLIERS BE LIABLE FOR ANY DIRECT, INDIRECT, PUNITIVE, INCIDENTAL, SPECIAL, CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF USE, DATA OR PROFITS, ARISING OUT OF OR IN ANY WAY CONNECTED WITH THE USE OR PERFORMANCE OF THE WEBSITE, WITH THE DELAY OR INABILITY TO USE THE WEBSITE OR RELATED SERVICES, THE PROVISION OF OR FAILURE TO PROVIDE SERVICES, OR FOR ANY INFORMATION, SOFTWARE, PRODUCTS, SERVICES AND RELATED GRAPHICS OBTAINED THROUGH THE WEBSITE, OR OTHERWISE ARISING OUT OF THE USE OF THE WEBSITE, WHETHER BASED ON CONTRACT, TORT, NEGLIGENCE, STRICT LIABILITY OR OTHERWISE, EVEN IF THE COMPANY OR ANY OF ITS SUPPLIERS HAS BEEN ADVISED OF THE POSSIBILITY OF DAMAGES. BECAUSE SOME STATES/JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE ABOVE LIMITATION MAY NOT APPLY TO YOU. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE WEBSITE, OR WITH ANY OF THESE TERMS OF USE, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE WEBSITE.\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>If any court of law rules that any part of the Disclaimer is invalid, the Disclaimer stands as if those parts were struck out. Further, you acknowledge that the information contained on this web site, including suggestions, techniques, ideas, downloads (and other material), is not medical or psychological advice and is legally for \"entertainment purposes only\". \n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Contact Us\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Alyssa Cinda welcomes your questions or comments regarding the Disclaimer:\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Alyssa Cinda\n</b></div><div><b>1301 Arndt Road\n</b></div><div><b>Easton, PA 18040\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Email Address: ask@alyssacinda.com\n</b></div><div><b>\n</b></div><div><b><br></b></div><div><b>Effective as of April 20, 2020\n</b></div><div><b>\n</b></div><div><b><br></b></div><p></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3b"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"termsofuse.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-3d"
+        }
+      ]
+    },
+    "home.html": {
       "settings": {
         "main": true,
         "title": "Home",
@@ -3202,7 +3304,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3502,12 +3604,575 @@
         }
       ]
     },
-    "privacy.html": {
+    "page15.html": {
       "settings": {
-        "title": "Privacy Policy",
-        "order": 12
+        "title": "Surfing Uncertainty",
+        "order": 4
       },
       "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Align with Abundance",
+          "text": "Do you feel stagnant in your life?<br>Are you wishing you had more time?<br>Do want to life a life that you love?<br>Have you forgotten about all your dreams?<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"alignwithabundance.html#msg-box4-2b\" data-toolbar=\"-mbrBtnMove\">What's Included?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"alignwithabundance.html#content4-2m\" data-toolbar=\"-mbrBtnMove\">Give me the breakdown</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            },
+            "H1": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "header1-3e"
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "text": "Follow Us",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/alyssacinda\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/alyssacinda\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-3f"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-4-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Module 1:&nbsp;<br>What is Abundance?",
+          "text": "<p>Demystifying the abundance concept </p><p>Develop your abundance consciousness</p><p>Clear ALL false beliefs blocking an abundance mindset</p><p>Discover your lack mindset and release it </p><p>Shift your conscious thinking into an abundance mindset</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead": {
+              "text-align": "left"
+            },
+            ".lead P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "msg-box4-3g"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Module 2:<br>Self-love Upgrade",
+          "text": "<p>Expanding your receptivity to allow more abundance\n</p><p>Balancing giving and recieving will allow you to do more of what you love\n</p><p>Loving yourself is the foundation of Abundance\n</p><p>How to put yourself first\n</p><p>Release ALL limiting beliefs to fully loving yourself!</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-3h"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Module 3:<br>Healthy Releationships",
+          "text": "<p>Learning to spot your own triggers and break away from drama\n</p><p>Setting healthy boundaries\n</p><p>Speaking your souls truth vs. ego truth\n</p><p>Releasing emotional heaviness in a relationship\n</p><p>Releasing toxic patterns picked up from parents, childhood and ancestors</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-3i"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Module 4:<br>Relationship with Money",
+          "text": "<p>What is your relationship with money?\n</p><p>What do you associate with money? (success, power, greed)\n</p><p>Habits of success\n</p><p>Active action to doing things that will make you more fincially abundant\n</p><p>Release ALL limiting beliefs about money</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-3j"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Module 5:<br>Releasing Trauma and Abuse",
+          "text": "<p>Releasing your Inner Child \n</p><p>Clearing your Maternal Ancestors blocks</p><p><span style=\"font-size: 1.25rem;\">Clearing your Paternal Ancestors blocks&nbsp;</span></p><p>Clearing past lives\n &amp; soul aspects</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-3k"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "22",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-3-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Module 6:<br>Accomplishing <br>Goals &amp; Dreams",
+          "text": "<p>Active your Divine Feminine\n within</p><p>Get focused and clear\n</p><p>Activate your Divine Masculine\n within</p><p>Take fast inspired action\n</p><p>Balancing the Feminine and Maculine energies within</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            ".lead P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "msg-box4-3l"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "columns": "3",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "3 Monthly Payments of $697 each",
+          "caption1": "You will recieve 1 POWERFUL energy clearing audio <b>bi-weekly</b> for <b>3 months</b> via e-mail.&nbsp; ($1,997 value)",
+          "title2": "Pay in FULL for $1,997<br><br>",
+          "caption2": "You will recieve 1 POWERFUL energy clearing audio <b>each week</b> for<b> 6 weeks</b> via e-mail. &nbsp;($1,997 value)<br>\n<br><b>1-year</b> subscription to my monthly fire circle ($1,997 value)<br>",
+          "title3": "1:1 6 Month <br>Coaching Program",
+          "caption3": "You will recieve 1 POWERFUL energy clearing audio <b>each week</b> for <b>24 weeks</b> via e-mail. &nbsp;($9,528 value)<br><br><b>1-year </b>subscription to my monthly fire circle ($1,997 value)<br><br>Weekly<b> 1:1 coaching calls</b> to work through all the energy that comes up ($7,128 value)<br><br><b>Limited Availablity ($18,653 total value)</b><br>Use the link below to apply.",
+          "title4": "Unlimited Websites",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-3m"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButton": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Are you ready to live a life you Love?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MAWC72EX9VMRA\" data-toolbar=\"-mbrBtnMove\">Make 1 payment of $1,997 NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AKE4R35RTKC7G\" data-toolbar=\"-mbrBtnMove\">Make 3 payments of $697 each</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/ultimateapp\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Fill out an application for the 1:1 Coaching Program</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3n"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "What people are saying about Infinity Fire",
+          "items": [
+            {
+              "authorName": "TANIA G.",
+              "authorBio": "User",
+              "text": "<em>“Alyssa gave me a energy clearing session and not only is she truly gifted but she is so generous and has a huge heart, she goes above and beyond for others and she deserves all the praises.&nbsp;\r</em><div><em>Once she did that clearing where she released abundance blocks, things have started to shift for the better and new opportunities are starting to come my way. I highly recommend her!!”</em></div>"
+            },
+            {
+              "authorName": "MELISSA M.",
+              "authorBio": "User",
+              "text": "<em>“Alyssa did an energy healing on me and it was fantastic. It was a 15 minute distant energy session. After she started I saw a door open in my mind and white light come in. My mind then cleared and I felt so calm and relaxed. My breathing slowed down also and the stuck energy in me seemed to lift off and release. Afterwards I was so calm and relaxed. I had been feeling low earlier and that was gone too. I would highly recommend Alyssa's healing gifts! She can shift you out of a heavy or stuck feeling and get you back on track!”</em>"
+            },
+            {
+              "authorName": "JENN T.",
+              "authorBio": "User",
+              "text": "<em>“Alyssa is a gifted healer with special talents that are not easy to find. Her healings unlock gifts in the recipients and trigger new awakenings on multiple levels.&nbsp;\r</em><em style=\"font-size: 1rem;\">I believe she is able to help connect people to their highest selves, reflect to us our highest vision, and awaken who we are at our divine blueprint whole.”</em>"
+            }
+          ],
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "authorName": "TANIA G.",
+              "authorBio": "User",
+              "text": "<em>“Alyssa gave me a energy clearing session and not only is she truly gifted but she is so generous and has a huge heart, she goes above and beyond for others and she deserves all the praises.&nbsp;\r</em><div><em>Once she did that clearing where she released abundance blocks, things have started to shift for the better and new opportunities are starting to come my way. I highly recommend her!!”</em></div>"
+            },
+            {
+              "authorName": "MELISSA M.",
+              "authorBio": "User",
+              "text": "<em>“Alyssa did an energy healing on me and it was fantastic. It was a 15 minute distant energy session. After she started I saw a door open in my mind and white light come in. My mind then cleared and I felt so calm and relaxed. My breathing slowed down also and the stuck energy in me seemed to lift off and release. Afterwards I was so calm and relaxed. I had been feeling low earlier and that was gone too. I would highly recommend Alyssa's healing gifts! She can shift you out of a heavy or stuck feeling and get you back on track!”</em>"
+            },
+            {
+              "authorName": "JENN T.",
+              "authorBio": "User",
+              "text": "<em>“Alyssa is a gifted healer with special talents that are not easy to find. Her healings unlock gifts in the recipients and trigger new awakenings on multiple levels.&nbsp;\r</em><em style=\"font-size: 1rem;\">I believe she is able to help connect people to their highest selves, reflect to us our highest vision, and awaken who we are at our divine blueprint whole.”</em>"
+            }
+          ],
+          "_anchor": "testimonials1-3o"
+        },
         {
           "_styles": {
             ".hide-buttons [data-button]": {
@@ -3539,7 +4204,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3557,29 +4222,10 @@
             "Theme"
           ],
           "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-35"
+          "_anchor": "dropdown-menu-3p"
         },
         {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".lead": {
-              "color": "#8f99af"
-            },
-            ".lead P": {
-              "text-align": "center",
-              "font-size": "22px"
-            }
-          },
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": false,
-            "showButton": false,
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -3587,33 +4233,18 @@
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Privacy Policy",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>WEBSITE DISCLAIMER AND TERMS OF SERVICE</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
+          "text": "Follow Us",
+          "icons": " <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-facebook\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/alyssacinda\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social socicon-bg-instagram\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/alyssacinda\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize\"><i class=\"socicon socicon-instagram\"></i></a>    ",
           "alias": "purity/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-36"
-        },
-        {
-          "text": "<p><b>IMPORTANT MEDICAL DISCLAIMER</b>: I believe and have experienced the methods and sessions I provide to be powerfully effective in raising mindset, emotions and expanding positive life experiences for thousands of people (you can read some of their testimonials here) - however, I am by law required to give you the following information for your personal safety. As a company based in the United States I am required to provide detailed legal information in this disclaimer.\n</p><p>\n</p><p>\n</p><p>Please do not be alarmed, but be aware that: \n</p><p>\n</p><p>\n</p><p>The information on this site is NOT INTENDED or IMPLIED to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this web site is for general information and \"entertainment purposes\" only.\n</p><p>\n</p><p>\n</p><p>SERVICES OR PRODUCTS THAT YOU OBTAIN THROUGH THIS WEB SITE are not offered as medical or psychological advice or treatment. These products are not intended to diagnose, treat, cure or prevent any disease. The information is not a substitute for psychological, medical or other professional advice and should for legal reasons be considered as \"entertainment only\". \n</p><p>\n</p><p>\n</p><p>Any information presented on this web site about energy based healing methods is not intended to represent that they are used to diagnose, cure, treat, or prevent any medical problem, physical or psychological disorder, nor are they intended as substitutes for seeking professional health care advice. For legal purposes, it is understood that this is categorized as \"entertainment only\". \n</p><p>\n</p><p>\n</p><p>Energy healing, frequencies, vibrational alignment, energy clearing and meditation are collective terms used to refer to a variety of complementary techniques based on the balancing, programming, and direction of energy as well as the corresponding manifestation and influence of thoughts, beliefs, and emotions on the body and mind. You are a unique being with a complex physical/karmic/ancestral background which will impact any energy work you undertake - there is no \"one size fits all\". \n</p><p>\n</p><p>\n</p><p>Alyssa Cinda is not a licensed health care provider. We strongly advise that you seek professional advice as appropriate before making health decisions or big life decisions. Any stories or testimonials contained herein, do not constitute a warranty, guarantee, or prediction regarding the outcome of an individual using any specific energy healing method for any particular issue. \n</p><p>\n</p><p>\n</p><p>All materials and links to other resources are posted in good faith. The accuracy, validity, effectiveness, completeness, or usefulness of any information, programs, packages, recordings, or items herein, as with any publication, cannot be guaranteed. Alyssa Cinda accepts no responsibility or liability whatsoever for the use or misuse of the information provided here, including links to other resources or unlicensed usage of Alyssa Cinda's products and materials elsewhere. \n</p><p>\n</p><p>\n</p><p>By viewing this web site you agree to fully release, indemnify, and hold harmless, Alyssa Cinda, and its principals, owners, personal representatives, consultants, employees and assigns from any claim or liability whatsoever and for any damage or injury, personal, financial, emotional, psychological or otherwise, which you may incur arising at any time out of or in relation to your use of the information presented on this web site. Alyssa Cinda is not responsible for yours and others' Free Will choices and any impact of these. \n</p><p>If any court of law rules that any part of the Disclaimer is invalid, the Disclaimer stands as if those parts were struck out. Further, you acknowledge that the information contained on this web site, including suggestions, techniques, ideas, downloads (and other material), is not medical or psychological advice and is legally for \"entertainment purposes only\".&nbsp;</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-37"
+          "_name": "social-buttons2",
+          "_anchor": "social-buttons2-3q"
         },
         {
           "_params": {
@@ -3634,14 +4265,14 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-3d"
+          "_anchor": "footer1-3r"
         }
       ]
     },
-    "termsofuse.html": {
+    "terms.html": {
       "settings": {
         "title": "Terms of Use",
-        "order": 13
+        "order": 14
       },
       "components": [
         {
@@ -3675,7 +4306,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3750,142 +4381,6 @@
           ],
           "_name": "content1",
           "_anchor": "content1-1r"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"termsofuse.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3d"
-        }
-      ]
-    },
-    "disclaimer.html": {
-      "settings": {
-        "title": "Disclaimer",
-        "order": 14
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#8f99af"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#838ea6"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#8f99af",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "html.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-39"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".lead": {
-              "color": "#8f99af"
-            },
-            ".lead P": {
-              "text-align": "center",
-              "font-size": "22px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Terms of Use",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>WEBSITE DISCLAIMER AND TERMS OF SERVICE</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">See All Templates</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-3a"
-        },
-        {
-          "text": "<p><b>IMPORTANT MEDICAL DISCLAIMER</b>: I believe and have experienced the methods and sessions I provide to be powerfully effective in raising mindset, emotions and expanding positive life experiences for thousands of people (you can read some of their testimonials here) - however, I am by law required to give you the following information for your personal safety. As a company based in the United States I am required to provide detailed legal information in this disclaimer.\n</p><p>\n</p><p>\n</p><p>Please do not be alarmed, but be aware that: \n</p><p>\n</p><p>\n</p><p>The information on this site is NOT INTENDED or IMPLIED to be a substitute for professional medical advice, diagnosis or treatment. All content, including text, graphics, images and information, contained on or available through this web site is for general information and \"entertainment purposes\" only.\n</p><p>\n</p><p>\n</p><p>SERVICES OR PRODUCTS THAT YOU OBTAIN THROUGH THIS WEB SITE are not offered as medical or psychological advice or treatment. These products are not intended to diagnose, treat, cure or prevent any disease. The information is not a substitute for psychological, medical or other professional advice and should for legal reasons be considered as \"entertainment only\". \n</p><p>\n</p><p>\n</p><p>Any information presented on this web site about energy based healing methods is not intended to represent that they are used to diagnose, cure, treat, or prevent any medical problem, physical or psychological disorder, nor are they intended as substitutes for seeking professional health care advice. For legal purposes, it is understood that this is categorized as \"entertainment only\". \n</p><p>\n</p><p>\n</p><p>Energy healing, frequencies, vibrational alignment, energy clearing and meditation are collective terms used to refer to a variety of complementary techniques based on the balancing, programming, and direction of energy as well as the corresponding manifestation and influence of thoughts, beliefs, and emotions on the body and mind. You are a unique being with a complex physical/karmic/ancestral background which will impact any energy work you undertake - there is no \"one size fits all\". \n</p><p>\n</p><p>\n</p><p>Alyssa Cinda is not a licensed health care provider. We strongly advise that you seek professional advice as appropriate before making health decisions or big life decisions. Any stories or testimonials contained herein, do not constitute a warranty, guarantee, or prediction regarding the outcome of an individual using any specific energy healing method for any particular issue. \n</p><p>\n</p><p>\n</p><p>All materials and links to other resources are posted in good faith. The accuracy, validity, effectiveness, completeness, or usefulness of any information, programs, packages, recordings, or items herein, as with any publication, cannot be guaranteed. Alyssa Cinda accepts no responsibility or liability whatsoever for the use or misuse of the information provided here, including links to other resources or unlicensed usage of Alyssa Cinda's products and materials elsewhere. \n</p><p>\n</p><p>\n</p><p>By viewing this web site you agree to fully release, indemnify, and hold harmless, Alyssa Cinda, and its principals, owners, personal representatives, consultants, employees and assigns from any claim or liability whatsoever and for any damage or injury, personal, financial, emotional, psychological or otherwise, which you may incur arising at any time out of or in relation to your use of the information presented on this web site. Alyssa Cinda is not responsible for yours and others' Free Will choices and any impact of these. \n</p><p>If any court of law rules that any part of the Disclaimer is invalid, the Disclaimer stands as if those parts were struck out. Further, you acknowledge that the information contained on this web site, including suggestions, techniques, ideas, downloads (and other material), is not medical or psychological advice and is legally for \"entertainment purposes only\".&nbsp;</p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-3b"
         },
         {
           "_params": {

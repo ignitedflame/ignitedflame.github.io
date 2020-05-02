@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "programs.html",
+    "currentPage": "alignwithabundance.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1807,7 +1807,7 @@
             "showCaptions": true,
             "paddingTop": "1",
             "paddingBottom": "2",
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -1822,9 +1822,9 @@
             "overlayOpacity": 0.5
           },
           "title1": "3 Monthly Payments of $697 each",
-          "caption1": "You will recieve 1 POWERFUL energy clearing audio <b>bi-weekly</b> for <b>3 months</b> via e-mail.&nbsp; ($1,997 value)",
+          "caption1": "You will recieve 6 POWERFUL energy clearing audio weekly&nbsp; ($1,997 value)",
           "title2": "Pay in FULL for $1,997<br><br>",
-          "caption2": "You will recieve 1 POWERFUL energy clearing audio <b>each week</b> for<b> 6 weeks</b> via e-mail. &nbsp;($1,997 value)<br>\n<br><b>1-year</b> subscription to my monthly fire circle ($1,997 value)<br>",
+          "caption2": "You will recieve 6 POWERFUL energy clearing audio weekly  ($1,997 value)<br>\n<br><b>1-year</b> subscription to my monthly fire circle ($1,997 value)<br>",
           "title3": "1:1 6 Month <br>Coaching Program",
           "caption3": "You will recieve 1 POWERFUL energy clearing audio <b>each week</b> for <b>24 weeks</b> via e-mail. &nbsp;($9,528 value)<br><br><b>1-year </b>subscription to my monthly fire circle ($1,997 value)<br><br>Weekly<b> 1:1 coaching calls</b> to work through all the energy that comes up ($7,128 value)<br><br><b>Limited Availablity ($18,653 total value)</b><br>Use the link below to apply.",
           "title4": "Unlimited Websites",
@@ -1868,7 +1868,7 @@
           "title": "Are you ready to live a life you Love?",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MAWC72EX9VMRA\" data-toolbar=\"-mbrBtnMove\">Make 1 payment of $1,997 NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AKE4R35RTKC7G\" data-toolbar=\"-mbrBtnMove\">Make 3 payments of $697 each</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/ultimateapp\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Fill out an application for the 1:1 Coaching Program</a> ",
+          "button": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mailchi.mp/alyssacinda/abundanceoptin\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Fill out an application for the 1:1 Coaching Program</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"

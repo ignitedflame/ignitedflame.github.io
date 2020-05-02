@@ -1868,7 +1868,7 @@
           "title": "Are you ready to live a life you Love?",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
-          "button": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mailchi.mp/alyssacinda/abundanceoptin\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Fill out an application for the 1:1 Coaching Program</a> ",
+          "button": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mailchi.mp/alyssacinda/abundanceoptin\" data-toolbar=\"-mbrBtnMove\">Sign up here for updates!</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"

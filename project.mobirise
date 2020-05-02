@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "alignwithabundance.html",
+    "currentPage": "About.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -132,7 +132,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "16",
             "paddingTop": "1",
             "paddingBottom": 0,
@@ -168,7 +168,7 @@
             }
           },
           "title": "About Me",
-          "text": "<p>Alyssa Cinda’s life philosophy is centered on the principle of ‘aligning’, and with this she empowers female entrepreneurs to build profitable lifestyles by “energetically aligning to their dreams”.\n</p><p>\n</p><p>Having successfully aligned her own energy to her dreams, Alyssa makes energetic alignment simple and achievable. She works exclusively with female entrepreneurs who are ready to “awaken. release. align.”.\n</p><p>\n</p><p>Through the power of digital marketing, Alyssa equips women to embrace their dreams and release toxic energy and mindsets with her powerful audio clearings.\n</p><p>\n</p><p>With more female entrepreneurs than ever before, Alyssa believes the entrepreneurial adventure is “truly a soul’s journey” and has worked to foster a community of female entrepreneurs who are active aligners.</p>",
+          "text": "<p>Alyssa Cinda’s life philosophy is centered on the principle of ‘aligning’, and with this she empowers female entrepreneurs to build profitable lifestyles by “energetically aligning to their dreams”.\n</p><p>\n</p><p>Having successfully aligned her own energy to her dreams, Alyssa makes energetic alignment simple and achievable. She works exclusively with &nbsp;female entrepreneurs who are ready to “awaken. release. align.”.\n</p><p>\n</p><p>Through the power of energetic alignment, Alyssa equips women to embrace their dreams and release toxic energy and mindsets with her powerful audio clearings.\n</p><p>\n</p><p>With more aware females than ever before, Alyssa believes the alignment adventure is “truly a soul’s journey” and has worked to foster a community of &nbsp;female entrepreneurs who are active aligners.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -190,7 +190,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "15",
             "paddingTop": "1",
             "paddingBottom": "2",
@@ -226,7 +226,7 @@
             }
           },
           "title": "This is my Mission",
-          "text": "<p>To empower and equip female entrepreneurs globally to create their own profitable, lifestyle and to enable them to have the impact on the world they were created to have.</p>",
+          "text": "<p>To empower and equip female entrepreneurs globally to create their own soul aligned lifestyle and to enable them to have the impact on the world they were created to have.</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"

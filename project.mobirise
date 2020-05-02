@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "disclaimer.html",
+    "currentPage": "page15.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -30,7 +30,7 @@
     "About.html": {
       "settings": {
         "title": "About",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -1898,7 +1898,7 @@
             {
               "authorName": "TANIA G.",
               "authorBio": "User",
-              "text": "<em>“Alyssa gave me a energy clearing session and not only is she truly gifted but she is so generous and has a huge heart, she goes above and beyond for others and she deserves all the praises.&nbsp;\r</em><div><em>Once she did that clearing where she released abundance blocks, things have started to shift for the better and new opportunities are starting to come my way. I highly recommend her!!”</em></div>"
+              "text": "<em>“Alyssa gave me a energy clearing session and not only is she truly gifted but she is so generous and has a huge heart, she goes above and beyond for others and she deserves all the praises.&nbsp;\n</em><div><em>Once she did that clearing where she released abundance blocks, things have started to shift for the better and new opportunities are starting to come my way. I highly recommend her!!”</em></div>"
             },
             {
               "authorName": "MELISSA M.",
@@ -2007,436 +2007,6 @@
           ],
           "_name": "social-buttons2",
           "_anchor": "social-buttons2-31"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"terms.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3d"
-        }
-      ]
-    },
-    "levelupinlove.html": {
-      "settings": {
-        "title": "Level up in Love Revolution",
-        "order": 7
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#8f99af",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "html.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1l"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1200.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Level up in Love",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-20"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"terms.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3d"
-        }
-      ]
-    },
-    "bodybeautiful.html": {
-      "settings": {
-        "title": "Body Beautiful Breakthrough",
-        "order": 8
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#8f99af",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "html.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1m"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1079.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Body Beautiful Breakthrough",
-          "text": "Do you struggle with cravings or lack motivation?\n<br>Is your overeating just out of CONTROL?\n<br>Is it impossible to maintain a healthy lifestyle?\n<br>Do you have weight that no matter what you do, will just not budge?\n<br>Then you  could have energy blocks and this program is right for you!\n<br>Do you love yourself enough to be healthy?&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-21",
-          "_styles": {
-            "P": {
-              "text-align": "right",
-              "color": "#ffffff"
-            },
-            "H1": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"terms.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3d"
-        }
-      ]
-    },
-    "Info.html": {
-      "settings": {
-        "title": "Info",
-        "order": 9
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#8f99af",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "html.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1j"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"terms.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3d"
-        }
-      ]
-    },
-    "moneymastery.html": {
-      "settings": {
-        "title": "Money Mastery Method",
-        "order": 6
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#8f99af"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#838ea6"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#8f99af",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "html.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1k"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Money Mastery",
-          "text": "Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header2",
-          "_anchor": "header2-1z",
-          "_styles": {
-            "H1": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          }
         },
         {
           "_params": {
@@ -2757,86 +2327,6 @@
           ],
           "_name": "dropdown-menu",
           "_anchor": "dropdown-menu-1p"
-        },
-        {
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#26272c",
-            "overlay": true,
-            "overlayColor": "#444444",
-            "overlayOpacity": 0.8
-          },
-          "text": "Copyright (c) 2020 Alyssa Cinda. <a href=\"terms.html\">Terms of Use</a>  | <a href=\"privacy.html\">Privacy Policy</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-3d"
-        }
-      ]
-    },
-    "FAQ.html": {
-      "settings": {
-        "title": "FAQ",
-        "order": 11
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons [data-button]": {
-              "display": "none !important"
-            },
-            ".navbar-brand a": {},
-            ".nav .link, .dropdown-item": {
-              "font-size": "1em",
-              "color": "#ffffff"
-            },
-            ".navbar, .dropdown-menu": {
-              "background": "#ffffff"
-            },
-            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
-              "background": "#f5f5f5"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            }
-          },
-          "_params": {
-            "logo": false,
-            "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
-            "transparent": true,
-            "bgColor": "#8f99af",
-            "fontSize": 1,
-            "fontName": {},
-            "fontColor": "#ffffff"
-          },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Info</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/untitled-design-256x128.png",
-              "class": "",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "html.html",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-1n"
         },
         {
           "_params": {
@@ -3618,7 +3108,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -3630,8 +3120,8 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "Align with Abundance",
-          "text": "Do you feel stagnant in your life?<br>Are you wishing you had more time?<br>Do want to life a life that you love?<br>Have you forgotten about all your dreams?<br><br>",
+          "title": "Surfing Uncertainty",
+          "text": "Do you wake up stressed about the future?<br>Are you wishing you knew exactly what is going to happen?<br>Is your mind plagued with wondering what your future holds?<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"alignwithabundance.html#msg-box4-2b\" data-toolbar=\"-mbrBtnMove\">What's Included?</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"alignwithabundance.html#content4-2m\" data-toolbar=\"-mbrBtnMove\">Give me the breakdown</a>",
           "alias": "purity/components",
           "_tags": [
@@ -3698,7 +3188,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-4-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ground-1280x720.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3715,8 +3205,8 @@
               "size": 0
             }
           },
-          "title": "Module 1:&nbsp;<br>What is Abundance?",
-          "text": "<p>Demystifying the abundance concept </p><p>Develop your abundance consciousness</p><p>Clear ALL false beliefs blocking an abundance mindset</p><p>Discover your lack mindset and release it </p><p>Shift your conscious thinking into an abundance mindset</p>",
+          "title": "Module 1:&nbsp;<br>Staying Present",
+          "text": "<p>Why being present matters and how uncertainty affects us</p><p>Difference between grounding and centering your energy and how to do them</p><p>Ways to release anxiety daily</p><p>Infinity Fire Energy Clearing that releases ALL limiting beliefs blocking the abilty to stay present and focused and more!</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3762,7 +3252,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3779,8 +3269,8 @@
               "size": 0
             }
           },
-          "title": "Module 2:<br>Self-love Upgrade",
-          "text": "<p>Expanding your receptivity to allow more abundance\n</p><p>Balancing giving and recieving will allow you to do more of what you love\n</p><p>Loving yourself is the foundation of Abundance\n</p><p>How to put yourself first\n</p><p>Release ALL limiting beliefs to fully loving yourself!</p>",
+          "title": "Module 2:<br>Releasing Control <br>to Allow Trust",
+          "text": "<p>Building your certainty anchors</p><p>Infinity Fire Energy Clearing that releases ALL limiting beliefs about trust and control.&nbsp;</p><p>Balance your giving and recieving energy</p><p>and more!</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3823,7 +3313,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x934.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-6-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3840,8 +3330,8 @@
               "size": 0
             }
           },
-          "title": "Module 3:<br>Healthy Releationships",
-          "text": "<p>Learning to spot your own triggers and break away from drama\n</p><p>Setting healthy boundaries\n</p><p>Speaking your souls truth vs. ego truth\n</p><p>Releasing emotional heaviness in a relationship\n</p><p>Releasing toxic patterns picked up from parents, childhood and ancestors</p>",
+          "title": "Module 3:<br>Feeling Safe &amp; Secure in Uncertain Times",
+          "text": "<p>Meet your inner child and learn about what they need to feel safe and secure and why you don't trust that you can handle the situation.</p><p>Release toxic patterns picked up from parents, childhood and ancestors and all limiting beliefs around feeling safe and secure</p><p>Shift from overestimating the 'threat' to having stong self-confidence</p><p>BONUS: Guided Meditation to Connect with your Inner Child</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3884,7 +3374,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x788.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-7-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3901,8 +3391,8 @@
               "size": 0
             }
           },
-          "title": "Module 4:<br>Relationship with Money",
-          "text": "<p>What is your relationship with money?\n</p><p>What do you associate with money? (success, power, greed)\n</p><p>Habits of success\n</p><p>Active action to doing things that will make you more fincially abundant\n</p><p>Release ALL limiting beliefs about money</p>",
+          "title": "Module 4:<br>Change is Good. <br>Welcome to Fluid Certainty",
+          "text": "<p>Learn why we resist change</p><p>Release toxic energy of loss, sadness, anger, confusion and fear of change, fear of success, fear of failure</p><p>Shift from a mindset of solid certainty to fluid certainty</p><p>and more!</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3912,6 +3402,9 @@
           "_name": "msg-box4",
           "_styles": {
             ".lead P": {
+              "text-align": "left"
+            },
+            ".lead": {
               "text-align": "left"
             }
           },
@@ -3945,7 +3438,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -3962,8 +3455,8 @@
               "size": 0
             }
           },
-          "title": "Module 5:<br>Releasing Trauma and Abuse",
-          "text": "<p>Releasing your Inner Child \n</p><p>Clearing your Maternal Ancestors blocks</p><p><span style=\"font-size: 1.25rem;\">Clearing your Paternal Ancestors blocks&nbsp;</span></p><p>Clearing past lives\n &amp; soul aspects</p>",
+          "title": "Module 5:<br>Aligning with your <br>Souls Guidance",
+          "text": "<p>Learn how to feel your higher self's (soul's) truth.</p><p>Learn what resonating vs. resistance feels like for you and what that means.&nbsp;</p><p>Release all energy blocks preventing you from connecting with your higher self and trusting your own inner knowing.&nbsp;</p><p>BONUS: Guided Meditation to Connect with your Higher Self</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -3973,6 +3466,9 @@
           "_name": "msg-box4",
           "_styles": {
             ".lead P": {
+              "text-align": "left"
+            },
+            ".lead": {
               "text-align": "left"
             }
           },
@@ -4006,7 +3502,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-3-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1308.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -4023,8 +3519,8 @@
               "size": 0
             }
           },
-          "title": "Module 6:<br>Accomplishing <br>Goals &amp; Dreams",
-          "text": "<p>Active your Divine Feminine\n within</p><p>Get focused and clear\n</p><p>Activate your Divine Masculine\n within</p><p>Take fast inspired action\n</p><p>Balancing the Feminine and Maculine energies within</p>",
+          "title": "Module 6:<br>Having and Abundant Mindset in Uncertain Times",
+          "text": "<p>How to find the opportunity in uncertainty</p><p>Release all energy blocks preventing you from having an abundant mindset</p><p>Shift close minded thinking and planning from ONE way to MANY ways</p><p>and more!</p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -4034,6 +3530,9 @@
           "_name": "msg-box4",
           "_styles": {
             ".lead P": {
+              "text-align": "left"
+            },
+            ".lead": {
               "text-align": "left"
             }
           },
@@ -4045,7 +3544,7 @@
             "showCaptions": true,
             "paddingTop": "1",
             "paddingBottom": "2",
-            "columns": "3",
+            "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/photo-3.jpg",
             "parallax": true,
@@ -4059,10 +3558,10 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "3 Monthly Payments of $697 each",
-          "caption1": "You will recieve 1 POWERFUL energy clearing audio <b>bi-weekly</b> for <b>3 months</b> via e-mail.&nbsp; ($1,997 value)",
-          "title2": "Pay in FULL for $1,997<br><br>",
-          "caption2": "You will recieve 1 POWERFUL energy clearing audio <b>each week</b> for<b> 6 weeks</b> via e-mail. &nbsp;($1,997 value)<br>\n<br><b>1-year</b> subscription to my monthly fire circle ($1,997 value)<br>",
+          "title1": "3 Monthly Payments of $397 each",
+          "caption1": "You will recieve 1 POWERFUL energy clearing audio and video each week for 6 weeks.&nbsp; ($1,997 value)",
+          "title2": "Pay in FULL for $997<br>",
+          "caption2": "6 POWERFUL energy clearing audios each week for 6 weeks.  ($1,997 value)<br>6 educational videos&nbsp;each week for 6 weeks. &nbsp;($1,997 value)<br>4 Guided Meditations, released during the appropriate Module ($97 Value)<br><br>\n<br>BONUS:<br><b>1-year</b> subscription to my monthly fire circle ($1,997 value)<br>",
           "title3": "1:1 6 Month <br>Coaching Program",
           "caption3": "You will recieve 1 POWERFUL energy clearing audio <b>each week</b> for <b>24 weeks</b> via e-mail. &nbsp;($9,528 value)<br><br><b>1-year </b>subscription to my monthly fire circle ($1,997 value)<br><br>Weekly<b> 1:1 coaching calls</b> to work through all the energy that comes up ($7,128 value)<br><br><b>Limited Availablity ($18,653 total value)</b><br>Use the link below to apply.",
           "title4": "Unlimited Websites",
@@ -4106,7 +3605,7 @@
           "title": "Are you ready to live a life you Love?",
           "meta": "By John Smith posted July 30, 2015",
           "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=MAWC72EX9VMRA\" data-toolbar=\"-mbrBtnMove\">Make 1 payment of $1,997 NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=AKE4R35RTKC7G\" data-toolbar=\"-mbrBtnMove\">Make 3 payments of $697 each</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.subscribepage.com/ultimateapp\" data-toolbar=\"-mbrBtnMove\"><span class=\"mobi-mbri mobi-mbri-contact-form mbr-iconfont mbr-iconfont-btn\"></span>Fill out an application for the 1:1 Coaching Program</a> ",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=SQUZVLVPR57U8\" data-toolbar=\"-mbrBtnMove\">Make 3 Monthly Payments of $397 each</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=8KU3U5N9PVTVU\" data-toolbar=\"-mbrBtnMove\">Make 1 payment of $1,997 NOW</a>  ",
           "alias": "purity/components",
           "_tags": [
             "Theme"

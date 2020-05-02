@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "page15.html",
+    "currentPage": "programs.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -2101,7 +2101,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2183,7 +2183,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1078.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1047.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -2223,7 +2223,7 @@
             "showMeta": false,
             "showText": true,
             "showButtons": true,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "22",
             "paddingTop": "1",
             "paddingBottom": "1",
@@ -2244,7 +2244,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/mbr-8-1400x933.jpg",
               "link": "",
               "alt": "",
               "title": ""

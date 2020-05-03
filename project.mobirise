@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "firecircle.html",
+    "currentPage": "programs.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -1474,7 +1474,7 @@
               "size": 0
             }
           },
-          "title": "Monthly Fire Cirle",
+          "title": "Monthly Fire Circle",
           "text": "<p>The perfect option for someone who wants consistant Infinity Fire&nbsp;<span style=\"font-size: 1.25rem;\">releasing but not sure what blocks they have or where to start.</span><span style=\"font-size: 1.25rem;\">&nbsp;</span></p>",
           "alias": "purity/components",
           "_tags": [

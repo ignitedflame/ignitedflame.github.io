@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "home.html",
+    "currentPage": "firecircle.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -870,7 +870,7 @@
           },
           "title": "The Fire Circle",
           "text": "The perfect option for someone who wants consistant Infinity Fire <br>releasing but not sure what blocks they have or where to start. <br><br>This system is designed so that you will receive exactly what you need right now!!<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"firecircle.html#pricing-table1-24\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"firecircle.html#buttons1-3s\" data-toolbar=\"-mbrBtnMove\">Sign me up!</a> ",
           "alias": "purity/components",
           "_tags": [
             "Theme"

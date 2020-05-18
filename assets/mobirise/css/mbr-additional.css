@@ -1,5 +1,10 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-1j .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-1j .nav .link,
 #dropdown-menu-1j .dropdown-item {
@@ -32,6 +37,7 @@
 #msg-box4-2s .lead P {
   text-align: left;
 }
+
 #header4-w P {
   font-size: 24px;
   color: #000000;
@@ -89,6 +95,9 @@
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1j .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
+}
 #dropdown-menu-1j .nav .link,
 #dropdown-menu-1j .dropdown-item {
   font-size: 1em;
@@ -106,6 +115,7 @@
 #dropdown-menu-1j .navbar-toggler {
   color: #ffffff;
 }
+
 #header1-19 P {
   text-align: left;
   color: #ffffff;
@@ -155,6 +165,9 @@
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-1j .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
+}
 #dropdown-menu-1j .nav .link,
 #dropdown-menu-1j .dropdown-item {
   font-size: 1em;
@@ -172,6 +185,7 @@
 #dropdown-menu-1j .navbar-toggler {
   color: #ffffff;
 }
+
 #header1-1y H1 {
   color: #ffffff;
 }
@@ -186,6 +200,9 @@
 }
 #dropdown-menu-1p .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-1p .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-1p .nav .link,
 #dropdown-menu-1p .dropdown-item {
@@ -204,8 +221,12 @@
 #dropdown-menu-1p .navbar-toggler {
   color: #ffffff;
 }
+
 #dropdown-menu-1o .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-1o .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-1o .nav .link,
 #dropdown-menu-1o .dropdown-item {
@@ -224,8 +245,12 @@
 #dropdown-menu-1o .navbar-toggler {
   color: #ffffff;
 }
+
 #dropdown-menu-35 .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-35 .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-35 .nav .link,
 #dropdown-menu-35 .dropdown-item {
@@ -257,8 +282,12 @@
   text-align: center;
   font-size: 22px;
 }
+
 #dropdown-menu-39 .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-39 .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-39 .nav .link,
 #dropdown-menu-39 .dropdown-item {
@@ -290,8 +319,12 @@
   text-align: center;
   font-size: 22px;
 }
+
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-1j .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-1j .nav .link,
 #dropdown-menu-1j .dropdown-item {
@@ -337,8 +370,12 @@
 #msg-box4-y .mbr-section-title {
   font-size: 30px;
 }
+
 #dropdown-menu-1p .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-1p .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-1p .nav .link,
 #dropdown-menu-1p .dropdown-item {
@@ -370,6 +407,7 @@
   text-align: center;
   font-size: 22px;
 }
+
 #header1-3e P {
   color: #ffffff;
 }
@@ -415,6 +453,9 @@
 #dropdown-menu-3p .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-3p .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
+}
 #dropdown-menu-3p .nav .link,
 #dropdown-menu-3p .dropdown-item {
   font-size: 1em;
@@ -432,6 +473,7 @@
 #dropdown-menu-3p .navbar-toggler {
   color: #ffffff;
 }
+
 #header1-18 P {
   color: #ffffff;
 }
@@ -467,6 +509,9 @@
 }
 #dropdown-menu-1j .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-1j .navbar-brand a {
+  font-family: 'Alegreya Sans', sans-serif;
 }
 #dropdown-menu-1j .nav .link,
 #dropdown-menu-1j .dropdown-item {

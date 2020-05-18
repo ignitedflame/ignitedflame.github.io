@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alyssa Cinda",
-    "currentPage": "abundance.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -12,7 +12,7 @@
     },
     "versionFirst": "4.5.2",
     "uniqCompNum": 137,
-    "versionPublish": "4.12.2",
+    "versionPublish": "4.12.3",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "siteFonts": [],
@@ -38,7 +38,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -55,7 +58,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -64,7 +67,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -77,7 +80,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -773,7 +776,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -790,7 +796,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -799,7 +805,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -812,7 +818,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -1297,7 +1303,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -1314,7 +1323,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -1323,7 +1332,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1336,7 +1345,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -1617,7 +1626,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -1634,7 +1646,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -1643,7 +1655,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1656,7 +1668,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -1697,7 +1709,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -1714,7 +1729,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -1723,7 +1738,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1736,7 +1751,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -1827,7 +1842,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -1844,7 +1862,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -1853,7 +1871,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1866,7 +1884,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -1963,7 +1981,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -1980,7 +2001,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -1989,7 +2010,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2002,7 +2023,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -2103,7 +2124,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -2120,7 +2144,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -2129,7 +2153,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2141,7 +2165,7 @@
               "title": ""
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -2440,7 +2464,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -2457,7 +2484,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -2466,7 +2493,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2479,7 +2506,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -3148,7 +3175,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -3165,7 +3195,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -3174,7 +3204,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3187,7 +3217,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
@@ -3813,7 +3843,10 @@
             ".hide-buttons [data-button]": {
               "display": "none !important"
             },
-            ".navbar-brand a": {},
+            ".navbar-brand a": {
+              "font-family": "'Alegreya Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext"
+            },
             ".nav .link, .dropdown-item": {
               "font-size": "1em",
               "color": "#ffffff"
@@ -3830,7 +3863,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": false,
+            "showBrand": true,
             "hideButtons": true,
             "sticky": true,
             "transparent": true,
@@ -3839,7 +3872,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"true\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\">Infinity Fire</a> <a data-app-btn=\"true\" class=\"nav-link link\" href=\"infinityfire.html\"></a> </li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"programs.html\" aria-expanded=\"false\">Clearing Programs</a> <div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"firecircle.html\">Monthly Fire Circle</a> <a data-app-btn=\"true\" class=\"dropdown-item\" href=\"surfinguncertainty.html\">Surfing Uncertainty &nbsp; &nbsp; &nbsp;&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"alignwithabundance.html\">Align with Abundance<br></a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\"><div>Info</div></a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"About.html\">About Alyssa Cinda<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact Us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black btn-black-outline\" href=\"https://mobirise.com/\">Download</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -3852,7 +3885,7 @@
               "linkInNewWindow": false
             }
           },
-          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"html.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALYSSA CINDA</a>",
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"home.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Alyssa Cinda</a>",
           "_tags": [
             "Theme"
           ],
